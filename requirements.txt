@@ -1,0 +1,16 @@
+# Core libraries for data manipulation and audio processing
+numpy
+pandas
+librosa
+scipy
+
+# Machine Learning and Deep Learning frameworks
+scikit-learn
+tensorflow
+
+# Plotting and visualization
+matplotlib
+seaborn
+
+# Utility for progress bars
+tqdm
