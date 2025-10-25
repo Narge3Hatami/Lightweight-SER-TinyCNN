@@ -28,13 +28,13 @@ You can replace `RAVDESS` with `TESS` or `CREMA-D`.
 - **`train_evaluate.py`**: The main script to reproduce the paper's results for the TinyCNN model.
 
 ## Citation
-If you find this work useful in your research, please consider citing our paper. The BibTeX entry is provided below. Please update the `journal` and `year` fields once the paper is available on arXiv.
+If you find this work useful in your research, please consider citing our paper. The BibTeX entry is provided below. Please update the `journal` and `year` fields once the paper is available on IEEE Transactions on Affective Computing.
 
 ```bibtex
 @article{TinyCNN_SER2025,
   title   = {Lightweight Speech Emotion Recognition Using Open-Source Tools and TinyCNN on Low-Resource Devices},
-  author  = {Ali Jafari and Narges Hatami},
-  journal = {arXiv preprint (to appear)},
+  author  = {Ali Jafari and Narges Hatami and Amir Salar Sagharisaz},
+  journal = {Submitted to IEEE Transactions on Affective Computing},
   year    = {2024},
   note    = {Code: \url{https://github.com/Narge3Hatami/Lightweight-SER-TinyCNN}}
 }
